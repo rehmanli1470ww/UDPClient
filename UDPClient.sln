@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34607.119
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UdpServerSide", "UdpServerSide\UdpServerSide.csproj", "{0C08BE55-5F4B-415C-8F13-5C9815824FBD}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfClient_UdpClient", "WpfClient_UdpClient\WpfClient_UdpClient.csproj", "{F708FD37-5C33-4D7C-B55A-2066228D769F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C08BE55-5F4B-415C-8F13-5C9815824FBD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C08BE55-5F4B-415C-8F13-5C9815824FBD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C08BE55-5F4B-415C-8F13-5C9815824FBD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C08BE55-5F4B-415C-8F13-5C9815824FBD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F708FD37-5C33-4D7C-B55A-2066228D769F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F708FD37-5C33-4D7C-B55A-2066228D769F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F708FD37-5C33-4D7C-B55A-2066228D769F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F708FD37-5C33-4D7C-B55A-2066228D769F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {101B32A5-DDD8-46E1-8813-945FF77C6926}
+	EndGlobalSection
+EndGlobal
